@@ -11,6 +11,9 @@ The VR task includes the representation of two virtual arms in a multimodal 3D e
 * Oculus Rift DK1
 * Leap Motion Controller
 
+##Video##
+*https://www.youtube.com/watch?v=3tBIDN4uskQ
+
 ## References: ##
 * **Athanasios Vourvopoulos**, Sergi Bermudez i Badia (2016)  Motor priming in virtual reality can augment motor-imagery training efficacy in restorative brain-computer interaction : a within-subject analysis Journal of NeuroEngineering and Rehabilitation 13.
 
