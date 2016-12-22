@@ -14,7 +14,7 @@ The VR task includes the representation of two virtual arms in a multimodal 3D e
 ##Video##
 *https://www.youtube.com/watch?v=3tBIDN4uskQ
 
-## References: ##
+## Publications: ##
 * **Athanasios Vourvopoulos**, Sergi Bermudez i Badia (2016)  Motor priming in virtual reality can augment motor-imagery training efficacy in restorative brain-computer interaction : a within-subject analysis Journal of NeuroEngineering and Rehabilitation 13.
 
 * **A Vourvopoulos**, J E M Cardona, S Bermudez i Badia (2015)  Optimizing motor imagery neurofeedback through the use of multimodal immersive virtual reality and motor priming In: Virtual Rehabilitation Proceedings (ICVR), 2015 International Conference on 228-234.
